@@ -2,7 +2,7 @@
 A Java Whisky Tracker API demonstrating the Java Spring API.
 
 ## Objectives
-* The task was to complete custom queries and connect them to appropriate RESTful endpoints using the Java Srping framework
+* The task was to create custom queries and connect them to appropriate RESTful endpoints using the Java Spring framework
 
 ## The App allows the user to carry out the following
 * Get all the whiskies for a particular year
